@@ -1,4 +1,4 @@
-🧭 1. Background & Project Goals
+**🧭 1. Background & Project Goals**
 
 The AdventureWorks dataset, created by Microsoft, represents the e-commerce operations of a global bicycle company. This project focuses on developing dashboards that provide actionable, data-driven insights to support both strategic and operational decision-making. 
 
@@ -13,4 +13,22 @@ This comprehensive review provides valuable insights by developing two interacti
 •	📦 Product performance: Analyze product trends to identify best-sellers, evaluate individual product profitability, and understand how pricing changes impact margins.
 •	🌍 Regional Sales Analysis: Evaluate regional demand and assess product performance within each region to identify opportunities for improvement and targeted growth strategies. Visualize performance across global regions and identify top- and low-performing markets.
 •	👥 Customer Segmentation: Categorize customers based on demographics, revenue contribution, and purchasing behavior to identify top customers and gain insights into their buying patterns.
+
+🗂️ **2. Data Structure and ERD (Entity Relationship Diagram)**
+The dataset structure as seen below consists of 6 tables: DimProduct, DimGeography, DimDate, DimSalesTerritories, FactInternetSales, DumCustomer, with a total row count of 108,127 records. 
+
+ 
+🗂️ 2. Data Structure and ERD (Entity Relationship Diagram)
+The dataset structure as seen below consists of 6 tables: DimProduct, DimGeography, DimDate, DimSalesTerritories, FactInternetSales, DumCustomer, with a total row count of 108,127 records. 
+
+ 
+
+
+
+
+
+
+
+
+
 
